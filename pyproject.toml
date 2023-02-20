@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "cs5530-assignment1"
+version = "0.1.0"
+description = ""
+authors = ["Odai Athamneh <heyodai@gmail.com>"]
+readme = "README.md"
+packages = [{include = "cs5530_assignment1"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^1.5.3"
+matplotlib = "^3.7.0"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

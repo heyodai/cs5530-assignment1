@@ -1,6 +1,9 @@
 # Assignment 1
 
-This is Odai's repo for Assignment 1 in Prof. Shah's CS 5530 course.
+This is Odai's repo for Assignment 1 in Prof. Shah's CS 5530 course. Answers can be found in the following files:
+
+- `question_1.ipynb` is for Question 1
+- `question_2.ipynb` is for Question 2
 
 ## Question 1
 
